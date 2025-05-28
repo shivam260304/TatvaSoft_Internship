@@ -1,0 +1,11 @@
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\bin\Debug\net8.0\WebApplication1.Data.deps.json
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\bin\Debug\net8.0\WebApplication1.Data.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\bin\Debug\net8.0\WebApplication1.Data.pdb
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.AssemblyInfoInputs.cache
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.AssemblyInfo.cs
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.csproj.CoreCompileInputs.cache
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\refint\WebApplication1.Data.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\WebApplication1.Data.pdb
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Data\obj\Debug\net8.0\ref\WebApplication1.Data.dll

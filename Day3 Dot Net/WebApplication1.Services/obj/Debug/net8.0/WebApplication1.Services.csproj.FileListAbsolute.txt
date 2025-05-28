@@ -1,0 +1,15 @@
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\bin\Debug\net8.0\WebApplication1.Services.deps.json
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\bin\Debug\net8.0\WebApplication1.Services.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\bin\Debug\net8.0\WebApplication1.Services.pdb
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\bin\Debug\net8.0\WebApplication1.Data.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\bin\Debug\net8.0\WebApplication1.Data.pdb
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.csproj.AssemblyReference.cache
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.AssemblyInfoInputs.cache
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.AssemblyInfo.cs
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.csproj.CoreCompileInputs.cache
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebAppli.764C4DA1.Up2Date
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\refint\WebApplication1.Services.dll
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\WebApplication1.Services.pdb
+C:\Users\pushkar rajput\source\repos\WebApplication1\WebApplication1.Services\obj\Debug\net8.0\ref\WebApplication1.Services.dll
